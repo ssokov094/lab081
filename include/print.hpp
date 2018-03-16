@@ -1,4 +1,3 @@
-cat > include/print.hpp <<EOF
 #include <string>
 #include <fstream>
 #include <iostream>
