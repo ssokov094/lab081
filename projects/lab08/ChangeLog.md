@@ -1,0 +1,2 @@
+* Sun Mar 18 2018 ssokov094 <ssokov094@gmail.com> 0.1.0.0
+- Initial RPM release
